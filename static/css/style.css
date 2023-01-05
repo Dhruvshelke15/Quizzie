@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+}
+
+#bdy1{
+    background-color: #FFCAC8;
+}
+
+#hh{
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar{
+    background-color: #2B3A55;
+}
+
+.container{
+    margin: 20px;
+    background-color: #F8F988;
+    padding: 30px;
+    position: relative;
+    text-align: justify;
+    border-radius: 20px;
+}
+
+
+
+.card-body{
+    background-color: #C0EEE4;
+    padding: 30px;
+    position: relative;
+    text-align: justify;
+}
